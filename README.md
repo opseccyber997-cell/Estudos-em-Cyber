@@ -78,5 +78,7 @@ A primeira letra representa o que é, mas como é um "d", isso seria um **DIRET�
 + Comandos de Rede no Linux
  
 ## PYTHON  🐍
-+ Básico de Lógica de Programação
-+ 
+
+ 
+Fase 1: Fundamentos EssenciaisVariáveis e Tipos de Dados: Entender como armazenar textos (Strings), números (Integers) e booleanos (True/False).Estruturas de Decisão (if, elif, else): Fazer o seu programa toma
+ r decisões baseadas em regras.Estruturas de Repetição (for, while): Fazer o código rodar várias vezes ou varrer listas e arquivos linha por linha.Listas e Dicionários: Organizar dados (como a lista de senhas proibidas ou o dicionário de critérios).Fase 2: Manipulação e Bibliotecas BásicasFunções (def): Aprender a isolar pedaços de código para reutilizá-los.Manipulação de Textos (Métodos de String): Funções como .lower(), .upper(), .split() e o operador in.Expressões Regulares (Módulo re): Aprender a criar "filtros" mágicos para encontrar padrões de texto (como e-mails, IPs e senhas). Esse é o superpoder do analista de segurança.Fase 3: Python Aplicado à SegurançaManipulação de Arquivos (open()): Essencial para abrir arquivos de log e ler relatórios.Módulos Nativos de Rede e Sistemas: Conhecer bibliotecas como socket (para conexões de rede), os e sys (para interagir com o sistema operacional).
