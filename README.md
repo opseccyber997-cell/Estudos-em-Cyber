@@ -48,7 +48,6 @@ Para eu entender como funciona para mudar as permissões, eu tive que aprender c
 A primeira letra representa o que é, mas como é um "d", isso seria um **DIRETÓRIO**
 
 
-
 ### ESSA TABELA ME AJUDOU MUITO!!!
 | Permissão | Binário | Decimal |
 | --- | --- | --- |
@@ -61,3 +60,23 @@ A primeira letra representa o que é, mas como é um "d", isso seria um **DIRET�
 | RW- | 110 | 6 |
 | RWX | 111 | 7 |
 
+## REDES  🛜
++ O que é uma rede
++ LAN, WAN e internet
++ IP e endereço MAC
++ IPV4 e IPV6
++ Gateway
++ Máscaras de Sub-rede
++ Portas
++ TCP e UDP
++ DNS
++ DHCP
++ NAT
++ HTTP e HTTPS
++ Modelo TCP/IP
++ Modelo OSI
++ Comandos de Rede no Linux
+ 
+## PYTHON  🐍
++ Básico de Lógica de Programação
++ 
