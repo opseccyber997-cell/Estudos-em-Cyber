@@ -1,21 +1,27 @@
         #LOOP WHILE
-#contador = 10
-#while contador >=1:
-#    print(f"Contagem atual + {contador}")
-#    contador-=1
+contador = 10
+while contador >=1:
+    print(f"Contagem atual + {contador}")
+    contador-=1
 
-#senha = "calabreso123"
-#tentative_senha = ""
-#while senha != tentative_senha:
-#    tentative_senha = input("Digite sua senha: ")
-#    if tentative_senha != senha:
-#        print("Senha Incorreta!")
-#    else:
-#        print("Acertou!")
+# -------------------------------------------------------------------------
 
-#compras = ["Arroz", "Feijão", "leite", "Pão"]
-#for item in compras:
-#    print(f"Você precisa comprar: {item}")
+senha = "calabreso123"
+tentative_senha = ""
+while senha != tentative_senha:
+    tentative_senha = input("Digite sua senha: ")
+    if tentative_senha != senha:
+        print("Senha Incorreta!")
+    else:
+        print("Acertou!")
+
+# -------------------------------------------------------------------------
+
+compras = ["Arroz", "Feijão", "leite", "Pão"]
+for item in compras:
+    print(f"Você precisa comprar: {item}")
+
+# -------------------------------------------------------------------------
 
 numeros = [5, 6, 1, 0, 8, 7, 9, 2, 4]
 for numero in numeros:

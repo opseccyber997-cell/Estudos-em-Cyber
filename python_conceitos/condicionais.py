@@ -1,15 +1,19 @@
-# idade = int(input("Qual é a sua idade?"))
-# if idade >= 18:
-#    print("Tá liberado")
-# else:
-#    print("Pode não!")
+idade = int(input("Qual é a sua idade?"))
+if idade >= 18:
+    print("Tá liberado")
+else:
+    print("Pode não!")
 
-#senha = "Calabreso123"
-#tentativa_senha = input("Digite sua senha: ")
-#if senha == tentativa_senha:
-#    print("Acertou! Acesso Liberado!")
-#else:
-#    print("Errado! Tente novamente!")
+# -----------------------------------------------------------------------------
+
+senha = "Calabreso123"
+tentativa_senha = input("Digite sua senha: ")
+if senha == tentativa_senha:
+    print("Acertou! Acesso Liberado!")
+else:
+    print("Errado! Tente novamente!")
+
+# --------------------------------------------------------------------------
 
 nota = float(input("Digite sua nota: "))
 if nota >= 7:
