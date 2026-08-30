@@ -6,7 +6,7 @@ OBSERVAÇÕES: Tenho **13 anos** no ano de 2026 e já estou estudando porque eu 
 + Linux Básico e Comandos de Rede no Terminal
 + Redes
 + Python
-+ Fundamentos da Wen
++ Fundamentos da Web
 + Fundamentos de Segurança
 + Segurança Web
 + Ferramentas de Análise
